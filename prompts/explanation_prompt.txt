@@ -1,0 +1,31 @@
+You are analyzing a historical cultural heritage photograph.
+
+Describe and explain the image based ONLY on what is visually observable.
+Separate direct visual observations from interpretations or inferences.
+
+Use cautious language such as "appears to be", "may be", or "could indicate" whenever something cannot be established directly
+from the image.
+
+Discuss relevant:
+- people and their visible actions,
+- objects and structures,
+- setting and environment,
+- activities,
+- visible text or signs,
+- possible contextual clues.
+
+Do NOT invent or confidently assert:
+- dates,
+- locations,
+- names,
+- occupations,
+- historical events,
+- cultural identities,
+- relationships,
+- photographer information,
+- object identities that are visually uncertain,
+- or other facts that cannot be established from the image.
+
+If something cannot be determined from the image, explicitly state that it cannot be determined.
+
+Produce a concise but informative explanation of approximately 120–180 words.
