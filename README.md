@@ -162,9 +162,6 @@ Six images were selected for qualitative analysis:
 - 0018
 - 0074
 
-/
-```
-
 ## Reproducibility
 
 The main analysis notebook is available in `notebooks/`.
