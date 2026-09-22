@@ -26,9 +26,6 @@ The analysis uses a subset of the Digital Documerica cultural heritage collectio
 - Total generated explanations: 460.
 - Total segmented sentences: 2,876.
 
-The generated explanation dataset is provided in:
-
-`results/documerica_all_460_explanations_FIXED.csv`
 
 Original cultural heritage images are not redistributed in this repository.
 
@@ -40,9 +37,6 @@ Five independently sampled explanations were generated for each image.
 
 The model was instructed to describe the image based only on visually observable information, distinguish observations from interpretations, and avoid unsupported claims about dates, locations, names, occupations, historical events, and other facts that cannot be established visually.
 
-The complete generation prompt is available in:
-
-`prompts/explanation_prompt.txt`
 
 ## Analysis Pipeline
 
@@ -168,13 +162,6 @@ Six images were selected for qualitative analysis:
 - 0018
 - 0074
 
-The case-study explanations are provided in:
-
-`results/case_study_explanations.csv`
-
-Contradiction examples are provided in:
-
-`results/case_study_contradictions.csv`
 
 ## Repository Structure
 
@@ -225,4 +212,4 @@ Reimers, N. & Gurevych, I. (2019). Sentence-BERT: Sentence Embeddings using Siam
 
 ## AI Use Disclosure
 
-Generative AI tools were used during this research project for image explanation generation, analysis assistance, code development and debugging, and language editing. The final analytical decisions, interpretation of results, and academic argumentation remain the responsibility of the author.
+Generative AI tools were used during this research project for image explanation generation, analysis assistance, code development and debugging, and language editing.
