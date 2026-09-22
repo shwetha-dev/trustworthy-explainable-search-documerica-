@@ -162,19 +162,7 @@ Six images were selected for qualitative analysis:
 - 0018
 - 0074
 
-
-## Repository Structure
-
-```text
-trustworthy-explainable-search-documerica/
-├── README.md
-├── notebooks/
-│   └── documerica_trustworthy_explainable_search.ipynb
-├── prompts/
-│   └── explanation_prompt.txt
-├── data/
-├── results/
-└── figures/
+/
 ```
 
 ## Reproducibility
