@@ -27,8 +27,6 @@ The analysis uses a subset of the Digital Documerica cultural heritage collectio
 - Total segmented sentences: 2,876.
 
 
-Original cultural heritage images are not redistributed in this repository.
-
 ## Explanation Generation
 
 Model: Qwen2.5-VL-7B-Instruct
